@@ -30,7 +30,10 @@
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.panel1 = new System.Windows.Forms.Panel();
+<<<<<<< Updated upstream:InventoryManagementSystem-PartSanduni/InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             this.btnAdd = new InventoryManagementSystem.CustomerButton();
+=======
+>>>>>>> Stashed changes:InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             this.label1 = new System.Windows.Forms.Label();
             this.dgvUser = new System.Windows.Forms.DataGridView();
             this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
@@ -40,8 +43,16 @@
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+<<<<<<< Updated upstream:InventoryManagementSystem-PartSanduni/InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             this.Edit = new System.Windows.Forms.DataGridViewImageColumn();
             this.Delete = new System.Windows.Forms.DataGridViewImageColumn();
+=======
+            this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.dataGridViewImageColumn2 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.Column6 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.Column5 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.customerButton1 = new InventoryManagementSystem.CustomerButton();
+>>>>>>> Stashed changes:InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnAdd)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvUser)).BeginInit();
@@ -58,6 +69,7 @@
             this.panel1.Size = new System.Drawing.Size(956, 49);
             this.panel1.TabIndex = 0;
             // 
+<<<<<<< Updated upstream:InventoryManagementSystem-PartSanduni/InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             // btnAdd
             // 
             this.btnAdd.Image = global::InventoryManagementSystem.Properties.Resources.icons8_plus_32__1_;
@@ -71,6 +83,8 @@
             this.btnAdd.TabStop = false;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
+=======
+>>>>>>> Stashed changes:InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             // label1
             // 
             this.label1.AutoSize = true;
@@ -78,7 +92,11 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(12, 12);
             this.label1.Name = "label1";
+<<<<<<< Updated upstream:InventoryManagementSystem-PartSanduni/InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             this.label1.Size = new System.Drawing.Size(178, 28);
+=======
+            this.label1.Size = new System.Drawing.Size(117, 19);
+>>>>>>> Stashed changes:InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             this.label1.TabIndex = 0;
             this.label1.Text = "Manage Users";
             // 
@@ -114,6 +132,7 @@
             this.dgvUser.Size = new System.Drawing.Size(956, 428);
             this.dgvUser.TabIndex = 1;
             this.dgvUser.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUser_CellContentClick);
+<<<<<<< Updated upstream:InventoryManagementSystem-PartSanduni/InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             // 
             // dataGridViewImageColumn1
             // 
@@ -132,6 +151,8 @@
             this.dataGridViewImageColumn2.MinimumWidth = 8;
             this.dataGridViewImageColumn2.Name = "dataGridViewImageColumn2";
             this.dataGridViewImageColumn2.Width = 150;
+=======
+>>>>>>> Stashed changes:InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             // 
             // Column7
             // 
@@ -139,7 +160,7 @@
             this.Column7.HeaderText = "No.";
             this.Column7.MinimumWidth = 8;
             this.Column7.Name = "Column7";
-            this.Column7.Width = 74;
+            this.Column7.Width = 51;
             // 
             // Column1
             // 
@@ -147,7 +168,7 @@
             this.Column1.HeaderText = "User Name";
             this.Column1.MinimumWidth = 8;
             this.Column1.Name = "Column1";
-            this.Column1.Width = 139;
+            this.Column1.Width = 95;
             // 
             // Column2
             // 
@@ -162,7 +183,7 @@
             this.Column3.HeaderText = "Password";
             this.Column3.MinimumWidth = 8;
             this.Column3.Name = "Column3";
-            this.Column3.Width = 124;
+            this.Column3.Width = 86;
             // 
             // Column4
             // 
@@ -170,9 +191,15 @@
             this.Column4.HeaderText = "Phone";
             this.Column4.MinimumWidth = 8;
             this.Column4.Name = "Column4";
+<<<<<<< Updated upstream:InventoryManagementSystem-PartSanduni/InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             this.Column4.Width = 101;
             // 
             // Edit
+=======
+            this.Column4.Width = 68;
+            // 
+            // dataGridViewImageColumn1
+>>>>>>> Stashed changes:InventoryManagementSystem/InventoryManagementSystem/UserForm.Designer.cs
             // 
             this.Edit.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
             this.Edit.HeaderText = "";
@@ -192,7 +219,7 @@
             // 
             // UserForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 21F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(956, 477);
             this.Controls.Add(this.dgvUser);
