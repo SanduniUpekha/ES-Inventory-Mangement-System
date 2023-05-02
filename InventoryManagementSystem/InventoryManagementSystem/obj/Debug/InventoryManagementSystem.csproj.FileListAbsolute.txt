@@ -13,3 +13,18 @@ D:\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryMan
 D:\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
 D:\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
 D:\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\DININDU\Desktop\C# System\ES-Inventory-Mangement-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb

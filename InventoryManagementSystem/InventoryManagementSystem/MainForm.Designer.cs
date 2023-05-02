@@ -34,16 +34,16 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panelMain = new System.Windows.Forms.Panel();
             this.customerButton5 = new InventoryManagementSystem.CustomerButton();
             this.customerButton4 = new InventoryManagementSystem.CustomerButton();
             this.customerButton3 = new InventoryManagementSystem.CustomerButton();
             this.customerButton2 = new InventoryManagementSystem.CustomerButton();
             this.customerButton1 = new InventoryManagementSystem.CustomerButton();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panelMain = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.customerButton5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.customerButton4)).BeginInit();
@@ -83,7 +83,7 @@
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label8.Location = new System.Drawing.Point(766, 47);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(59, 19);
+            this.label8.Size = new System.Drawing.Size(52, 17);
             this.label8.TabIndex = 19;
             this.label8.Text = "Orders";
             // 
@@ -94,7 +94,7 @@
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label7.Location = new System.Drawing.Point(681, 47);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(46, 19);
+            this.label7.Size = new System.Drawing.Size(42, 17);
             this.label7.TabIndex = 18;
             this.label7.Text = "Users";
             this.label7.Click += new System.EventHandler(this.label7_Click);
@@ -106,7 +106,7 @@
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label6.Location = new System.Drawing.Point(555, 49);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(92, 19);
+            this.label6.Size = new System.Drawing.Size(82, 17);
             this.label6.TabIndex = 17;
             this.label6.Text = "Categories";
             // 
@@ -117,7 +117,7 @@
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label5.Location = new System.Drawing.Point(450, 49);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(88, 19);
+            this.label5.Size = new System.Drawing.Size(79, 17);
             this.label5.TabIndex = 16;
             this.label5.Text = "Customers";
             // 
@@ -128,63 +128,10 @@
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label4.Location = new System.Drawing.Point(367, 49);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(68, 19);
+            this.label4.Size = new System.Drawing.Size(59, 17);
             this.label4.TabIndex = 0;
             this.label4.Text = "Product";
             this.label4.Click += new System.EventHandler(this.label4_Click);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.Navy;
-            this.label2.Location = new System.Drawing.Point(38, 22);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(146, 34);
-            this.label2.TabIndex = 10;
-            this.label2.Text = "Hardware";
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Goudy Stout", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Navy;
-            this.label1.Location = new System.Drawing.Point(-1, 9);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(71, 55);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "J";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Century Gothic", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(13, 64);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(346, 27);
-            this.label3.TabIndex = 9;
-            this.label3.Text = "Inventory Management System";
-            // 
-            // panel2
-            // 
-            this.panel2.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(0, 572);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(956, 22);
-            this.panel2.TabIndex = 1;
-            // 
-            // panelMain
-            // 
-            this.panelMain.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelMain.Location = new System.Drawing.Point(0, 95);
-            this.panelMain.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(956, 477);
-            this.panelMain.TabIndex = 2;
             // 
             // customerButton5
             // 
@@ -203,7 +150,7 @@
             this.customerButton4.Image = global::InventoryManagementSystem.Properties.Resources.icons8_users_30;
             this.customerButton4.ImageHover = global::InventoryManagementSystem.Properties.Resources.icons8_users_30__1_;
             this.customerButton4.ImageNormal = global::InventoryManagementSystem.Properties.Resources.icons8_users_30;
-            this.customerButton4.Location = new System.Drawing.Point(685, 10);
+            this.customerButton4.Location = new System.Drawing.Point(684, 12);
             this.customerButton4.Name = "customerButton4";
             this.customerButton4.Size = new System.Drawing.Size(32, 34);
             this.customerButton4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -246,9 +193,62 @@
             this.customerButton1.TabIndex = 11;
             this.customerButton1.TabStop = false;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Century Gothic", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.Navy;
+            this.label2.Location = new System.Drawing.Point(38, 22);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(126, 28);
+            this.label2.TabIndex = 10;
+            this.label2.Text = "Hardware";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Goudy Stout", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Navy;
+            this.label1.Location = new System.Drawing.Point(-1, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(60, 47);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "J";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Century Gothic", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(13, 64);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(296, 23);
+            this.label3.TabIndex = 9;
+            this.label3.Text = "Inventory Management System";
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel2.Location = new System.Drawing.Point(0, 572);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(956, 22);
+            this.panel2.TabIndex = 1;
+            // 
+            // panelMain
+            // 
+            this.panelMain.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelMain.Location = new System.Drawing.Point(0, 95);
+            this.panelMain.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.panelMain.Name = "panelMain";
+            this.panelMain.Size = new System.Drawing.Size(956, 477);
+            this.panelMain.TabIndex = 2;
+            // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 23F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(956, 594);
             this.Controls.Add(this.panelMain);
