@@ -47,6 +47,14 @@
 
 <a name="ui"></a>
 ## :computer: User Interfaces
+ 
+  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/login.jpeg"  width="100" height="100"/>
+  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/main form.jpeg"  width="100" height="100"/>
+  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/product.jpeg"  width="100" height="100"/>
+  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/customer.jpeg"  width="100" height="100"/>
+  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/category.jpeg"  width="100" height="100"/>
+  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/user.jpeg"  width="100" height="100"/>
+  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/order.jpeg"  width="100" height="100"/>
 ![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/login.jpeg)
 ![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/main form.jpeg)
 ![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/product.jpeg)
@@ -59,14 +67,17 @@
 <br/>
 <a name="built"></a>
 ## :wrench: Built With
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
 
 <br/>
 
 <a name="ide"></a>
 ## :gear: IDEs Used
-	![Visual studio](https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/250?cb=20191019024151)<br/> 
+	![Visual studio](https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg)<br/> 
+   
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
 
 <br/>
