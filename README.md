@@ -57,10 +57,9 @@
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
 
 <br/>
-
 <a name="built"></a>
 ## :wrench: Built With
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://cdn.worldvectorlogo.com/logos/c--4.svg)</br> 
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
 
 <br/>
