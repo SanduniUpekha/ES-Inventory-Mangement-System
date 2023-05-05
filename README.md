@@ -55,13 +55,13 @@
   <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/category.jpeg"  width="100" height="100"/>
   <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/user.jpeg"  width="100" height="100"/>
   <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/order.jpeg"  width="100" height="100"/>
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/login.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/main form.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/product.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/customer.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/category.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/user.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/order.jpeg)
+![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/login.jpeg)
+![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/main form.jpeg)
+![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/product.jpeg)
+![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/customer.jpeg)
+![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/category.jpeg)
+![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/user.jpeg)
+![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/order.jpeg)
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
 
 <br/>
