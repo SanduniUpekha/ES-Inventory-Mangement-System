@@ -48,13 +48,13 @@
 <a name="ui"></a>
 ## :computer: User Interfaces
  
-  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/login.jpeg"  width="100" height="100"/>
-  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/main form.jpeg"  width="100" height="100"/>
-  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/product.jpeg"  width="100" height="100"/>
-  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/customer.jpeg"  width="100" height="100"/>
-  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/category.jpeg"  width="100" height="100"/>
-  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/user.jpeg"  width="100" height="100"/>
-  <img src="https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/readimg/order.jpeg"  width="100" height="100"/>
+  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/login.jpeg"  width="500" height="400"/>
+  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/main form.jpeg"  width="500" height="400"/>
+  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/product.jpeg"  width="500" height="400"/>
+  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/customer.jpeg"  width="500" height="400"/>
+  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/category.jpeg"  width="500" height="400"/>
+  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/user.jpeg"  width="500" height="400"/>
+  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/order.jpeg"  width="500" height="400"/>
 ![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/login.jpeg)
 ![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/main form.jpeg)
 ![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/product.jpeg)
