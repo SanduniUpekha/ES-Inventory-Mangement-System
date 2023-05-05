@@ -7,7 +7,6 @@
 <ol>
     <li><a href="#about">About The Project</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#ui">User Interfaces</a></li>
     <li><a href="#built">Built With</a></li>
     <li><a href="#ide">IDEs Used</a></li>
     <li><a href="#comp">Compatible With</a></li>
@@ -45,26 +44,6 @@
 
 <br/>
 
-<a name="ui"></a>
-## :computer: User Interfaces
- 
-  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/login.jpeg"  width="500" height="400"/>
-  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/main form.jpeg"  width="500" height="400"/>
-  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/product.jpeg"  width="500" height="400"/>
-  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/customer.jpeg"  width="500" height="400"/>
-  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/category.jpeg"  width="500" height="400"/>
-  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/user.jpeg"  width="500" height="400"/>
-  <img src="/Users/user/Documents/GitHub/ES-Inventory-Mangement-System/readimg/order.jpeg"  width="500" height="400"/>
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/login.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/main form.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/product.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/customer.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/category.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/user.jpeg)
-![](https://github.com/SanduniUpekha/ES-Inventory-Mangement-System/blob/main/readimg/order.jpeg)
-<p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
-
-<br/>
 <a name="built"></a>
 ## :wrench: Built With
 
@@ -76,7 +55,7 @@
 
 <a name="ide"></a>
 ## :gear: IDEs Used
-	![Visual studio](https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg)<br/> 
+![Visual studio](https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg)<br/> 
    
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
 
