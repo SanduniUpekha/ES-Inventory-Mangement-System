@@ -55,8 +55,8 @@
 
 <a name="ide"></a>
 ## :gear: IDEs Used
-![Visual studio](https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg) width="40" height="40"<br/> 
-<img src="https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg" alt="csharp" width="40" height="40"/>
+
+<img src="https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg" alt="csharp" width="40" height="40"/><br/> 
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
 
 <br/>
