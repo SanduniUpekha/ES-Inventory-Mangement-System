@@ -86,5 +86,5 @@
 * [Savodya Samarasinghe](https://github.com/savodya)
 * [Sachini Anjana](https://github.com/NSachini)
 * [Dinidu ](https://github.com/Dinindu2001)
-* [Denuwan](https://github.com/DTmannapperuma)
+
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
