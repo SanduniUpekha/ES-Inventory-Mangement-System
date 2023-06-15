@@ -56,8 +56,8 @@
 <a name="ide"></a>
 ## :gear: IDEs Used
 
-<img src="https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg" alt="csharp" width="40" height="40"/><br/> 
-<p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 <br/>
 
